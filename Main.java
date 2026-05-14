@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Bienvenido a Papelería Ávila");
+        System.out.println("Bienvenidos a Papelería Ávila");
     }
 }
